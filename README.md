@@ -9,6 +9,7 @@ This application was developed using a well-defined and decoupled architecture, 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MohanedZekry/ArticleApp/master/screenshots/Clean-Architecture-Flutter-Diagram.png" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 </p>
+
 ## API for Articles : 
  - <a href="https://jsonplaceholder.typicode.com/posts">Articles</a> [[GET]]
 
