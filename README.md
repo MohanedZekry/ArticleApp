@@ -22,18 +22,21 @@ This application was developed using a well-defined and decoupled architecture, 
 
 ## Libraries and Tools
 
-- bloc 
-- bloc_test 
+- BLoC 
+- BLoC_Test 
 - cupertino_icons 
-- equatable 
-- flutter_bloc 
-- formz 
-- http 
-- intl
-- shared_preferences 
-- provider
-- faker 
-- mockito
+- Equatable 
+- Flutter_Bloc 
+- Formz
+- Dio 
+- http
+- Dartz 
+- Intl
+- Shared_preferences 
+- Provider
+- Faker 
+- Mockito
+
 ## Testing
 
 - Unit tests
